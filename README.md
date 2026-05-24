@@ -22,5 +22,5 @@ An advanced machine learning baseline utilizing Logistic Regression to handle ex
 
 ## 🔗 Connect With Me
 
-* **LinkedIn:** [Dishant Chokhandre]((https://www.linkedin.com/in/dishant-chokhandre-b4b794168/))
-* **Professional Resume:** [View My Resume (PDF)]((https://drive.google.com/file/d/1XwHHgKhN47RH_UZrxi58mC6gS2xBtExC/view?usp=sharing))
+* **LinkedIn:** [Dishant Chokhandre](https://www.linkedin.com/in/dishant-chokhandre-b4b794168/)
+* **Professional Resume:** [View My Resume (PDF)](https://drive.google.com/file/d/1XwHHgKhN47RH_UZrxi58mC6gS2xBtExC/view?usp=sharing)
